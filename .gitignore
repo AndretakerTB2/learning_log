@@ -1,0 +1,4 @@
+ll_env/
+_pycashe_/
+*.sqlite3
+.DS_Store
